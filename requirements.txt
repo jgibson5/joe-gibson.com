@@ -1,0 +1,6 @@
+Flask==1.0.3
+
+flask-wtf>=0.14.2
+
+Boto3>=1.9.172
+python-dotenv>=0.10.3
